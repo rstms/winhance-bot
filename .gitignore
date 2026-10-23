@@ -1,0 +1,7 @@
+winhance-bot
+winhance-bot.exe
+notes
+cruft
+*.core
+*.log
+*postactivate
